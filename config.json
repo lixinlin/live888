@@ -1,5 +1,5 @@
 {
-  "apiURL1": "https://9990.niuniutang.cn",
-  "wsURL1": "wss://9990.niuniutang.cn/websocket",
+  "apiURL": "https://9990.niuniutang.cn",
+  "wsURL": "wss://9990.niuniutang.cn/websocket",
   "basePath1": "/live888/"
 }
