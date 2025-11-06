@@ -1,4 +1,4 @@
 {
-  "apiURL": "http://9990.niuniutang.cn",
-  "wsURL": "ws://9990.miumiutang.cn/websocket"
+  "apiURL": "https://9990.niuniutang.cn",
+  "wsURL": "wss://9990.miumiutang.cn/websocket"
 }
